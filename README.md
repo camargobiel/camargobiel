@@ -4,4 +4,5 @@
 ## Sobre mim:
 🏫 Estou no 3º ano do ensino médio; <br>
 👨‍💻 Faço curso técnico em Análise e Desenvolvimento de Sistemas; <br>
-💻 Gosto de tudo sobre tecnologia;
+💻 Gosto de tudo sobre tecnologia; <br>
+🏆 Gosto muito de Python e PHP.
