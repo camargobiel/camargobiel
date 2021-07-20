@@ -1,3 +1,4 @@
-<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
+
+<img align="right" src="https://user-images.githubusercontent.com/65691094/126382066-b68b05b2-7a5b-486c-9bc5-437680eb00c8.png" width="300"/>
 ## Sobre mim: 
 
