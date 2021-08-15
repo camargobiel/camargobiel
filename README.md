@@ -1,8 +1,3 @@
 
-<img align="right" src="https://user-images.githubusercontent.com/65691094/126382066-b68b05b2-7a5b-486c-9bc5-437680eb00c8.png" width="450"/>
+<img align="right" src="https://user-images.githubusercontent.com/65691094/129464496-ed5d4b1b-cef4-436e-8b46-05d6b5461a59.png" width="450"/>
 
-## Sobre mim:
-🏫 Estou no 3º ano do ensino médio; <br>
-👨‍💻 Faço curso técnico em Análise e Desenvolvimento de Sistemas; <br>
-💻 Gosto de tudo sobre tecnologia; <br>
-🏆 Gosto muito de Python e PHP.
