@@ -1,6 +1,24 @@
-<h1> <i> __Welcome to my profile__  </i></h1>
 
-* My name is Gabriel, but everyone calls me **Camargo** 💨
-* I'm from Brazil 🇧🇷
-* I start coding when I was 15yo 🤓
-* I have a Technical course in **Analysis and System Development**, and **started a graduation** in Tech area this year 👨‍💻
+<div align="center">
+  <h1> opa, bem vindo(a) ao meu perfil </h1>
+  <a href="https://github.com/camargobiel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camargobiel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camargobiel&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+  <h1 align="center"> tecnologias que eu gosto e trabalho </h1>
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="angularjs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img align="center" alt="c" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+  <img align="center" alt="mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  <img align="center" alt="php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="center" alt="css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+</div><br/>
+  
+<h2 align="center"> conecte-se comigo no linkedin </h1>
+  <div style="display: inline_block" align="center"><br>
+    <a href="https://www.linkedin.com/in/gabriel-camargo-493755209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+
