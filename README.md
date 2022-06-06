@@ -21,7 +21,7 @@
   <img align="center" alt="node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 </div><br/>
   
-<h2 align="center"> conecte-se comigo no linkedin </h1>
+<h1 align="center"> conecte-se comigo no linkedin </h1>
   <div style="display: inline_block" align="center"><br>
     <a href="https://www.linkedin.com/in/gabriel-camargo-493755209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
