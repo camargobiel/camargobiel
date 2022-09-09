@@ -1,12 +1,12 @@
 
 <div align="center">
-  <h1> opa, bem vindo(a) ao meu perfil </h1>
+  <h1> Bem vindo ao meu perfil </h1>
   <a href="https://github.com/camargobiel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camargobiel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camargobiel&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  <h1 align="center"> tecnologias que eu gosto e trabalho </h1>
+  <h1 align="center"> Tecnologias que eu gosto e trabalho </h1>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="angularjs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
@@ -21,7 +21,7 @@
   <img align="center" alt="node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 </div><br/>
   
-<h1 align="center"> conecte-se comigo no linkedin </h1>
+<h1 align="center"> Conecte-se comigo no linkedin </h1>
   <div style="display: inline_block" align="center"><br>
     <a href="https://www.linkedin.com/in/gabriel-camargo-493755209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
