@@ -10,4 +10,4 @@
 - Formado técnico em Análise e Desenvolvimento de Sistemas pela Etec (2019 - 2021) <br>
 - Cursando Análise e Desenvolvimento de Sistemas na Fatec Rio Preto (2022 - Atualmente).
 
-![título](https://user-images.githubusercontent.com/65691094/212746616-9af9a291-3e05-4fe8-b014-d398f14213aa.png)
+![título](https://user-images.githubusercontent.com/65691094/212746783-445f5144-a6e9-4fa2-b2a1-5994989b58af.png)
