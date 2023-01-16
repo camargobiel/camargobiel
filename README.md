@@ -10,6 +10,4 @@
 - Formado técnico em Análise e Desenvolvimento de Sistemas pela Etec (2019 - 2021) <br>
 - Cursando Análise e Desenvolvimento de Sistemas na Fatec Rio Preto (2022 - Atualmente).
 
-<br>🧠 Conhecimentos: NodeJS, Angular, JavaScript, TypeScript, GraphQL CSS, HTML.
-
-📚 O que estou estudando atualmente: Clean Code, Arquitetura de Software, TDD, boas práticas, testes e GraphQL.
+![título](https://user-images.githubusercontent.com/65691094/212746616-9af9a291-3e05-4fe8-b014-d398f14213aa.png)
