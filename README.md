@@ -1,5 +1,7 @@
 ![capa](https://user-images.githubusercontent.com/65691094/212745264-e4775ce5-ac53-419a-a28f-e472d9dab092.png)
 
+<hr style="border-top: 1px dashed #bbb;"></hr>
+
 <b> ❤️  Apaixonado por tecnologia e desenvolvimento. </b> <br>
 <b> 🚀  Aprendi que somente tentando, errando e persistindo que se alcança os objetivos. </b> <br>
 <b> 🕔  Pontualidade e dedicação são meus pontos fortes. </b> <br>
