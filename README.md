@@ -1,1 +1,1 @@
-![capa](https://user-images.githubusercontent.com/65691094/212744524-e8a9fe51-f5a3-4179-aca3-1054dc570a5a.png)
+![capa](https://user-images.githubusercontent.com/65691094/212745264-e4775ce5-ac53-419a-a28f-e472d9dab092.png)
