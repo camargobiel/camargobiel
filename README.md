@@ -1,13 +1,7 @@
-![capa](https://user-images.githubusercontent.com/65691094/212745264-e4775ce5-ac53-419a-a28f-e472d9dab092.png)
+With over a year of experience as a developer, I have been working with various technologies to provide solutions and overcome challenges. My journey includes projects in mobile development, websites, backend APIs, and integration APIs, as well as creating corporate email templates for data acquisition.
 
-<hr style="border-top: 1px dashed #bbb;"></hr>
+My skills encompass a range of technologies, including **TypeScript**, covering both the **Node.js** environment and frameworks like **Angular** and **React**, along with tools like **Jest** for testing. I also have experience using **GraphQL** and **PostgreSQL**.
 
-<b> ❤️  Apaixonado por tecnologia e desenvolvimento. </b> <br>
-<b> 🚀  Aprendi que somente tentando, errando e persistindo que se alcança os objetivos. </b> <br>
-<b> 🕔  Pontualidade e dedicação são meus pontos fortes. </b> <br>
+My approach to work is focused on solid software engineering principles. I embrace daily **Test-Driven Development (TDD)** practices to ensure code quality. Additionally, I am a staunch advocate of **Clean Code**, **Clean Architecture**, and **SOLID principles**, ensuring that my projects are not only functional but also well-structured and easy to maintain.
 
-<h3> 💻 Tenho fome de conhecimento:</h3> 
-- Formado técnico em Análise e Desenvolvimento de Sistemas pela Etec (2019 - 2021) <br>
-- Cursando Análise e Desenvolvimento de Sistemas na Fatec Rio Preto (2022 - Atualmente).
-
-![título](https://user-images.githubusercontent.com/65691094/212746783-445f5144-a6e9-4fa2-b2a1-5994989b58af.png)
+My passion for continuous learning drives my career. I am always seeking new challenges and opportunities to expand my knowledge and skills.
