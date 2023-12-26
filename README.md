@@ -1,7 +1,5 @@
-With over a year of experience as a developer, I have been working with various technologies to provide solutions and overcome challenges. My journey includes projects in mobile development, websites, backend APIs, and integration APIs, as well as creating corporate email templates for data acquisition.
+Software Engineer with over 1.5 years of experience in full-stack development. Worked with technologies such as TypeScript, React, Node.js, Angular, and PostgreSQL, have experience in unit, integration, and E2E testing. 
 
-My skills encompass a range of technologies, including **TypeScript**, covering both the **Node.js** environment and frameworks like **Angular** and **React**, along with tools like **Jest** for testing. I also have experience using **GraphQL** and **PostgreSQL**.
+Graduated in technical analysis and system development and currently studying a degree in the same area. 
 
-My approach to work is focused on solid software engineering principles. I embrace daily **Test-Driven Development (TDD)** practices to ensure code quality. Additionally, I am a staunch advocate of **Clean Code**, **Clean Architecture**, and **SOLID principles**, ensuring that my projects are not only functional but also well-structured and easy to maintain.
-
-My passion for continuous learning drives my career. I am always seeking new challenges and opportunities to expand my knowledge and skills.
+Always looking to develop myself and improving 1% every day :)
