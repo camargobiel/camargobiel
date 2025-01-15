@@ -2,8 +2,8 @@
 
 ## About me
 
-- 💼 Working as mid-term back-end developer.
-- 🌱 Learning Flutter, AWS and Python.
+- 💼 Working as mid-term back-end developer at Paipe.co.
+- 🧑‍🎓 Degree in Systems Analysis and Development
 
 ## Skills
 
