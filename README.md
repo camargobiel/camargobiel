@@ -21,6 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)
 
 ## Socials
 
